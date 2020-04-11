@@ -12,5 +12,5 @@ Put a folder of Telidon 699 graphics files the same directory as the conversion 
 Run the script 699toNAPLPS.pl to convert the files to NAPLPS format
 eg. ./699toNAPLPS.pl samples
 
-This will create a copy of the folder in the NAPLPS directory containing the converted files.
+This will create a copy of the folder in a directory called NAPLPS containing the converted files.
 
